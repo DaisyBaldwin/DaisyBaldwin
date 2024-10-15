@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaisyBaldwin
-- 👀 I’m interested in statistics
-- 🌱 I’m currently learning python
+- 👀 I’m interested in music
+- 🌱 I’m currently learning maths and statistics
 - 📫 How to reach me (email - ah24090@qmul.ac.uk)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a black belt in karate.
